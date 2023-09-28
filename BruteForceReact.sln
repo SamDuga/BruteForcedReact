@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruteForceReact", "BruteForceReact\BruteForceReact.csproj", "{B396BA66-41E8-4AB5-A3F2-F32C94F3EF54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B396BA66-41E8-4AB5-A3F2-F32C94F3EF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B396BA66-41E8-4AB5-A3F2-F32C94F3EF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B396BA66-41E8-4AB5-A3F2-F32C94F3EF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B396BA66-41E8-4AB5-A3F2-F32C94F3EF54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {846C68FB-BB08-4E74-AA5E-21E8F8FDCF97}
+	EndGlobalSection
+EndGlobal
